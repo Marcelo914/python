@@ -1,0 +1,1 @@
+tempoDeJogo = input()
