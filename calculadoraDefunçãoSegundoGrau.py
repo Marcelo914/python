@@ -6,9 +6,8 @@ from tkinter import Y
 A =int(input("valor de A: "))
 B = int(input("valor de B: "))
 C = int(input("valor de C: "))
-B2 =B
 
-delta = B2**2 -(4 * A * C)
+delta = B**2 -(4 * A * C)
 if delta== 0:
     X = (-B + 0) //(A*2)
     print("A raiz dessa equação é: ", int(X))
